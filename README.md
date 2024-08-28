@@ -4,6 +4,12 @@
 
 This Power BI project provides a comprehensive analysis of the Coursera platform, focusing on various aspects such as course offerings, sales, subscribers, and content duration. The analysis covers data from 2011 to 2017, offering insights into the platform's growth, the popularity of different subjects, and the performance of specific courses.
 
+
+![WhatsApp Image 2024-08-28 at 11 54 20_d4228b35](https://github.com/user-attachments/assets/d8be4257-dc76-47d4-9371-e72cef53d0ff)
+![WhatsApp Image 2024-08-28 at 11 55 06_5bc10a0f](https://github.com/user-attachments/assets/24e6ce5b-7f59-4034-b23b-34cd453a4f1e)
+![WhatsApp Image 2024-08-28 at 11 55 27_5d462db5](https://github.com/user-attachments/assets/18030d31-842f-4114-bf7e-5938e16c3f68)
+
+
 ## Data Sources
 
 The data for this project is derived from Coursera's platform, covering the following key areas:
