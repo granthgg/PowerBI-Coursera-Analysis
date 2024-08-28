@@ -58,9 +58,6 @@ The Power BI report includes several interactive visualizations, such as:
 - The majority of the platform's revenue comes from courses priced between $181 and $200.
 - Courses with shorter content durations (0-5 hours) tend to generate higher sales.
 
-## Conclusion
-
-This Power BI project provides a detailed overview of Coursera's platform performance over several years. It highlights key trends in course offerings, sales, and subscriber growth, offering valuable insights for stakeholders looking to understand the dynamics of online education on the Coursera platform.
 
 ## How to Use
 
